@@ -19,3 +19,13 @@ Analysed Stroke Dataset and evaluated different factors affecting stroke by Visu
 # Patients with High Glocose Level
 
 ![image](https://user-images.githubusercontent.com/25953950/222523332-222a354b-e145-4729-9f65-973146d70de6.png)
+
+# Comparison between people staying in Urban vs Rural areas
+
+![image](https://user-images.githubusercontent.com/25953950/222523489-32aaa779-11cf-4e67-91c6-a5ec95991ebc.png)
+
+# Risk of Stroke in Married Partners
+
+![image](https://user-images.githubusercontent.com/25953950/222523574-c0df693a-2c0e-4736-8111-9b8a29d6fc57.png)
+
+Reference for Analytics -> https://www.kaggle.com/code/anyfish/stroke-prediction-dataset
