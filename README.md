@@ -1,5 +1,9 @@
 # Stroke-Prediction-and-Analysis
 
+The Stroke Prediction and Analysis project aims to predict the likelihood of stroke based on various health factors. The project begins with exploratory data analysis (EDA) to understand the distribution of variables, check for missing values and outliers, and drop unnecessary columns. Data cleaning techniques such as one-hot encoding, data imputation, and standard scaling were also applied to prepare the data for modeling. The project utilized multiple classifiers, including logistic regression, SVC, and deep learning models, to achieve a 95% accuracy rate and 0.62 F1 score on the testing set. Overall, the project showcases strong skills in data cleaning and analysis to achieve accurate predictions.
+
+Below are some of the visualizations from project
+
 Analysed Stroke Dataset and evaluated different factors affecting stroke by Visualizing them.
 
 ![image](https://user-images.githubusercontent.com/25953950/222522828-2c1aa767-95f9-4245-af1a-032267940a23.png)
